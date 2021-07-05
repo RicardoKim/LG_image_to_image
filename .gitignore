@@ -1,0 +1,7 @@
+venv/
+.vscode/
+raw_data/
+sample_submission/
+test_input_img/
+*.csv
+*.txt
